@@ -1,4 +1,6 @@
 # Yandex_Practicum
+![image](https://github.com/tatianaaxe/Yandex_Practicum/assets/152779557/3cfc90f3-49ee-40a1-b4c6-73a625ff27cc)
+
  
 # Репозиторий выпускника профессии "Аналитик данных"
 
