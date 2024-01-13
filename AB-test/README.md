@@ -3,9 +3,14 @@
 
 - **python**
 - **pandas**
+- **matplotlib**
+- **plotly.express**
+- **seaborn**
 - **numpy**
 - **scipy**
 - **math**
+- **datetime**
+- **graph_objects**
   
 ## Цель исследования:
 
